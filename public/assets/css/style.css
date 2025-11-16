@@ -468,3 +468,6 @@ footer {
     gap: 25px;
   }
 }
+.case-studies, .blog {
+  padding-bottom: 100px;
+}
